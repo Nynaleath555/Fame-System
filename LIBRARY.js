@@ -1,5 +1,5 @@
 /* ============================================================================
-   🌟 FAME SYSTEM v1.0.0 DELTA
+   🌟 FAME SYSTEM v1.0.0 
    Hook: Library
    Creator: Nynaleath
 
