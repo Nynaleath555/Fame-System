@@ -20,7 +20,7 @@ const FAME_SYSTEM = (() => {
     fame: 0,
     difficulty: "Normal",
     cooldown: 0,
-    language: "Auto",
+    language: "English",
     notifications: true
   };
 
